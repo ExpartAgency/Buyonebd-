@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuyOneBD</string>
+    <string name="brand_tagline">Better Products • Better Life</string>
+    <string name="search_hint">Search Bangla, Banglish or English (e.g. জিরা গুঁড়া, jira gura, omron)...</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="place_order">Confirm Order</string>
+    <string name="order_tracking">Track Order</string>
+    <string name="ai_assistant">BuyOneBD AI Assistant</string>
+</resources>

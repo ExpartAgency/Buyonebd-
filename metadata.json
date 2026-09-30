@@ -1,0 +1,6 @@
+{
+  "name": "BuyOneBD",
+  "description": "BuyOneBD - Better Products • Better Life. Complete Bangladesh Retail, Wholesale, Reseller, Affiliate & AI eCommerce Platform with Steadfast/Pathao/RedX Courier, bKash/Nagad/SSLCommerz/COD & Multi-Warehouse ERP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
